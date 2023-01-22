@@ -1,11 +1,10 @@
 # mag-mutual-ui
 
 ## Description:
-This is the UI for the mag-mutual-tech-screening project. It's written in python since I haven't written in python in a while and wanted to try something new. It uses a module called streamlit.
+This is the UI for the mag-mutual-tech-screening project. It's written in python since I haven't written in python in a while and wanted to try something new. It uses a module called [Streamlit](https://docs.streamlit.io/).
 
 ## Setup:
-I've tried to write specific instructions for running this project in Windows and and in Mac. 
-
+I've tried to write specific instructions for running this project in Windows and and on Mac. 
 
 ###### Windows:
 1. Install the latests python version
